@@ -1,0 +1,63 @@
+.breed {
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.breedpara {
+    border: 2px solid;
+    height: 200px;
+    width: 80%;
+    padding: 10px;
+    }
+
+em {
+    font-weight: bold;
+}
+
+.readmore1 {
+text-decoration: underline;
+}
+
+.images1 
+{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.dogs_images {
+    display: inline;
+    
+}
+
+.dog1 {
+    display: inline;
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+
+}
+
+.dog2 {
+    display: inline;
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+}
+
+.dog3 {
+    display: inline;
+    height: 200px;
+    width: 300px;
+    border: 2px solid;
+}
+
+.more_images1 {
+font-weight: bold;
+text-decoration: underline;
+font-size: 25px;
+}
+
+#trivia_heading {
+    font-weight: bold;
+    text-decoration: underline;
+}
